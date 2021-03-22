@@ -18,5 +18,7 @@ Contact tab
 #Here are just a few things I did with CSS:
 
 •	Choose colors of everything on the page, like the background, font, or main menu.
+
 •	Set the size of any element such as font size, the width of the entire site, or an image
+
 •	Change the state of items when hovering over them
